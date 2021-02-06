@@ -7,7 +7,6 @@
 * [General info](#general-info)
 * [Setup](#setup)
 * [Features](#features)
-* [Other](#other)
 
 ## General info:
 
@@ -53,5 +52,4 @@ Parameters:
     Returns:
 
     * Predicted car price in euros (int)
-## Other
-Can't wait to get over this module.
+
